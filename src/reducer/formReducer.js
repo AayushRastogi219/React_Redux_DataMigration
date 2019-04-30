@@ -1,5 +1,5 @@
-// const formReducer=(states={userEmailID:'', userFirstName:'', userSecondName:'', userPassword:'', userConfirmPassword:'', userGender:false}, action)=>{
-const formReducer=(states={userEmailID:'aayush@gmail.com', userFirstName:'aayush', userSecondName:'rastogi', userPassword:'Aayush@219', userConfirmPassword:'Aayush@219', userGender:false}, action)=>{
+// const formReducer=(states={userEmailID:'aayush@gmail.com', userFirstName:'aayush', userSecondName:'rastogi', userPassword:'Aayush@219', userConfirmPassword:'Aayush@219', userGender:false}, action)=>{
+const formReducer=(states={userEmailID:'', userFirstName:'', userSecondName:'', userPassword:'', userConfirmPassword:'', userGender:false}, action)=>{
   switch (action.type) {
     case 'CHANGE_EMAILID':
       return{ ...states, userEmailID:action.payload};
