@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Arun",
+      "last_name": "Kumar",
+      "dateOfBirth": "1/01/1990",
+      "joinDate": "01/01/2012",
+      "qualification": "B.Tech",
+      "role": "Python Engineer"
+    },
+    {
+      "id": 2,
+      "first_name": "Aayush",
+      "last_name": "Rastogi",
+      "dateOfBirth": "3/03/1990",
+      "joinDate": "02/01/2012",
+      "qualification": "B.Tech",
+      "role": ""
+    },
+    {
+      "id": 3,
+      "first_name": "Suryakant",
+      "last_name": "Kumar",
+      "dateOfBirth": "5/05/1990",
+      "joinDate": "03/01/2012",
+      "qualification": "B.Tech",
+      "role": ""
+    },
+    {
+      "id": 4,
+      "first_name": "Vaibhav in MB",
+      "last_name": "Kumar",
+      "dateOfBirth": "4/04/1990",
+      "joinDate": "04/01/2012",
+      "qualification": "",
+      "role": "Teacher"
+    }
+  ]
+}
